@@ -1,0 +1,4 @@
+这里记录社团成员的博客地址。
+
+- [kkocdko 的博客，记录 kk 的一些 ~~奇技淫巧~~ 独特技术经验和教程 - kkocdko.site](https://kkocdko.site)
+- [mzdyl.xyz](https://mzdyl.xyz)
